@@ -1,8 +1,10 @@
 # Front_End_Projects
 Rock Paper Scissors Game
+
 A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against the computer in this classic hand game!
 
 🎮 Features
+
 Choose between Rock, Paper, or Scissors
 
 Random computer opponent
