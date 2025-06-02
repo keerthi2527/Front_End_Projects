@@ -22,15 +22,8 @@ Click one of the buttons to make your move.
 
 See what the computer picks and who wins!
 
-📁 Project Structure
-bash
-Copy
-Edit
-📦 rock-paper-scissors/
-├── index.html     # Main HTML structure
-├── style.css      # Game styling
-└── script.js      # Game logic
 🛠️ Technologies Used
+
 HTML5
 
 CSS3
